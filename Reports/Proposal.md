@@ -10,11 +10,10 @@ they do not get admitted or readmitted.
 **Who is it for:** Physicians who want to understand what kind of demographics, medications, etc to consider while treating patients with thyroid disease
  so that the right group of people get the proper care and not to be readmitted for the same.
 
-
-**Data:**The data is accquired from [UCI ML dataset Thyroid Disease](https://archive.ics.uci.edu/ml/datasets/Thyroid+Disease) and in particular will be focussing on ANN dataset.
+**Data:** The data is accquired from [UCI ML dataset Thyroid Disease](https://archive.ics.uci.edu/ml/datasets/Thyroid+Disease) and in particular will be focussing on ANN dataset.
 [ANN](https://archive.ics.uci.edu/ml/machine-learning-databases/thyroid-disease/ann-Readme) provides the info related to the dataset.
 
-**Modeling approach:** We want to predict the possibility of patient suffering from thyroid disease, a supervised classification will be a good candidate to predict and estimate models. Also will be using various classification algorithms and pick one which performs the best.
+**Modeling approach:** We want to predict the probability of patient suffering from thyroid disease, a supervised classification will be a good candidate to predict and estimate. Also will be using various classification algorithms and pick one which performs the best.
 
 The aim is to build models and estimate the probability of patients suffering from different levels of thyroid disease, using factors like age, sex, thyroxine, medication, etc.
 
