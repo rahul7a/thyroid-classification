@@ -1,2 +1,5 @@
-# Story telling for capstone project
-This folder has a data story telling IPython notebook.
+# Story telling
+
+Folder contains story telling IPython notebook.
+
+Notebook has Exploratory Data Analysis with visualizations.
