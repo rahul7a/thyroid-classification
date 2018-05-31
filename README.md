@@ -1,2 +1,2 @@
-# thyroid-classification
-Classification of thyroid diseases.
+# Thyroid Classification
+Classification of thyroid disease.
