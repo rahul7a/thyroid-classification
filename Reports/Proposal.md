@@ -1,7 +1,7 @@
-# thyroid-classification ANN
+# Thyroid-classification ANN
 ### Classification of thyroid diseases.
 
-**Definition**
+**Definition:**
 **Thyroid disease** is a medical condition affecting the function of the thyroid gland and the symptoms of the disease vary depending on the type of thyroid disease.
 
 **Problem:** A physician needs to know the demographics suffering from thyroid disease. And find what sector of people can be focussed so that 
